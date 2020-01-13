@@ -1,7 +1,7 @@
 
 package Students;
 
-/** This class +++Insert Description Here+++
+/** This class represents student data
  *
  * @author Megha Patel
  */
